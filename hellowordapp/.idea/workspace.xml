@@ -55,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld_extend">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.HelloWorld" />
       <module name="hellowordapp" />
@@ -100,8 +100,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld_extend" />
         <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.HelloWorld_extend" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +121,7 @@
       <workItem from="1571744103436" duration="284000" />
       <workItem from="1571744624810" duration="4281000" />
       <workItem from="1571749279663" duration="600000" />
-      <workItem from="1571749902927" duration="6038000" />
+      <workItem from="1571749902927" duration="6671000" />
     </task>
     <servers />
   </component>
